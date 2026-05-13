@@ -11,7 +11,7 @@ st.set_page_config(
     page_icon="📄",
     layout="wide"
 )
-# GOOGLE_API_KEY = "A63jOs4VAKCYXYTM"
+# GOOGLE_API_KEY = "  "
 # os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 # ─── Configuration ─────────────────────────────────────────────────────────
